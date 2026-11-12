@@ -1,0 +1,50 @@
+/* --------------------------------------
+	Global
+-----------------------------------------*/
+@import 'sections/_global';
+/* --------------------------------------
+	Header
+-----------------------------------------*/
+@import 'sections/_header';
+/* --------------------------------------
+	Global
+-----------------------------------------*/
+@import 'sections/_body';
+/* --------------------------------------
+	footer
+-----------------------------------------*/
+@import 'sections/_footer';
+
+
+.parallax-window {
+    min-height: 100vh;
+    background: transparent;
+    position: relative;
+}
+
+
+
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+		
+}
+
+
+
+
+.section_target{
+	min-height: 80vh;
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+.container_content .skill_row_header {
+  text-shadow: 0px 0px 10px #EDE100;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 30px; }
+  .container_content .skill_row_header span {
+    display: block; }
+.container_content .skill_title {
+  font-size: 12px; }
+
+/*# sourceMappingURL=body_skills.css.map */

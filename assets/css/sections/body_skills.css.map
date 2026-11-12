@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,oCAAiB;EAChB,WAAW,EAAE,oBAAoB;EACjC,aAAa,EAAE,cAAc;EAE7B,aAAa,EAAE,IAAI;EACnB,yCAAI;IACH,OAAO,EAAE,KAAK;AAGhB,+BAAY;EACX,SAAS,EAAE,IAAI",
+"sources": ["../../scss/sections/body_skills.scss"],
+"names": [],
+"file": "body_skills.css"
+}
